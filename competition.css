@@ -11,7 +11,7 @@ header {
   color: rgba(0,100,150,1);
   max-width: 600px;
   margin: auto;
-  font-size:20px;
+  font-size:30px;
   height:50px
 }
 
@@ -35,7 +35,7 @@ ol {
 }
 
 div {
-  margin:100px 0 0 0;
+  margin:50px 0 0 0;
 }
 
 .form {
