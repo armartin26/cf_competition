@@ -64,7 +64,7 @@ input {
 }
 
 input[type="number"]{
-
+  color: blue;
 }
 
 input[type="submit"] {
