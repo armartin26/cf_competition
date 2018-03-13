@@ -86,3 +86,14 @@ input[type="submit"] {
       background: rgba(0,100,150,1);
       color: white;
 }
+
+@media (max-width: 500px) {
+  img { height: 80px; 
+  }
+  h3 { font-size: 36px;
+  }
+  li {
+    display: block;
+    padding: 5px;
+}
+
