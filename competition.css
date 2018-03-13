@@ -38,7 +38,7 @@ h3 {
   text-align: center;
 }
 
-.horizontal {
+li {
   padding: 0px 10px 0px 10px;
   display: inline;
 }
@@ -85,6 +85,7 @@ input[type="number"]{
 input[type="submit"] {
       background: rgba(0,100,150,1);
       color: white;
+      width: 500px;
 }
 
 @media (max-width: 300px) {
