@@ -49,7 +49,7 @@
               </div>
               <div>
                 <label> Presentation number </label>
-                 <input type="number" name="Presentation_number" placeholder="0" id="targetQuantity" name="targetQuantity" type="text" value="1" onkeyup="check(this)"> <br>
+                 <input type="number" name="Presentation_number" placeholder="0"> <br>
               </div>
               <div>
                 <label> Quality </label>
@@ -73,16 +73,5 @@
         </form>
         </div>
      </div>
-  <script>
-      var v=1;
-      function check(i) {      
-          if(i.value > 100) {
-          i.value=v;
-          alert("< 100");
-         }
-      else
-      v=i.value;
-}
-  </script>
  </body>
 </html>
