@@ -87,10 +87,8 @@ input[type="submit"] {
       color: white;
 }
 
-@media (max-width: 500px) {
-  img { height: 80px; 
-  }
-  h3 { font-size: 36px;
+@media (max-width: 300px) {
+  img { height: 120px; 
   }
   li {
     display: block;
