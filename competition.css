@@ -21,6 +21,10 @@ h1 {
 
 h3 {
   font-family: helvetica, sans-serif;
+  color: rgba(0,100,150,1);
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
 }
 
 li {
