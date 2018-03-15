@@ -89,7 +89,7 @@ input[type="number"]{
 input[type="submit"] {
       background: rgba(0,100,150,1);
       color: white;
-      width: 250px;
+      width: 200px;
 }
 
 @media (max-width: 300px) {
