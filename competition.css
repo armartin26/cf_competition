@@ -38,9 +38,13 @@ h3 {
   text-align: center;
 }
 
-li {
+.horizontal {
   padding: 0px 10px 0px 10px;
   display: inline;
+}
+
+li {
+  padding: 0px 10px 0px 10px;
 }
 
 a {
